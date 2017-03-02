@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-one">
+    <title>How to Get to PSJ</title>
+    <shortdesc>This is how we will be getting to Port Saint Joe.</shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Pack bags in Sophie's car</cmd>
+            </step>
+            <step>
+                <cmd>Leave at 3am</cmd>
+            </step>
+            <step>
+                <cmd>Drive for 12 hours</cmd>
+            </step>
+            <step>
+                <cmd>Arrive at PSJ</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

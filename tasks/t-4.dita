@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_e43_4rn_cz">
+    <title>How to do Fun Stuff</title>
+    <shortdesc>Here's what we'll be doing over the week.</shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Go snorkeling</cmd>
+            </step>
+            <step>
+                <cmd>Swim in the pool</cmd>
+            </step>
+            <step>
+                <cmd>Tan on the porch</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
