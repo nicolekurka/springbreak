@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="c-intro" path="concepts/c-.html"/>
+   <appContext helpID="t-one" path="tasks/t-1.html"/>
+   <appContext helpID="topic_tzp_jqn_cz" path="tasks/t-2.html"/>
+   <appContext helpID="topic_ibf_qqn_cz" path="tasks/t-3.html"/>
+   <appContext helpID="task_e43_4rn_cz" path="tasks/t-4.html"/>
+   <appContext helpID="trouble_xp1_tpw_fz" path="concepts/troubleshooting1.html"/>
+</map>
